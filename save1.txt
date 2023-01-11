@@ -1,0 +1,14 @@
+EbertpDM
+142.5
+130
+200
+10
+0
+10
+2
+30
+Arco do Caçador
+200
+1
+1
+Um arco magico passado por geraçoes de caçadores e elfos
