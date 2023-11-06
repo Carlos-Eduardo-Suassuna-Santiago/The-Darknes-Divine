@@ -1,5 +1,4 @@
 import random
-from click import style
 from texto import texto_devagar
 from colorama import Fore, Style
 
